@@ -15,8 +15,8 @@ author = "admin - Elodie Cauvet"
 
 
 I am is a researcher and lecturer in Cognitive Neuroscience. 
-Currently, I am working as a lecturer at DIS Study Abroad, a non profit institution receiving american undergraduate students to study for a semester in Stockholm. Within DIS, I currently teach 3 classes: the Affective Neuroscience class, the associated Affective Neuroscience lab, and the Developing Brain. 
-For my research, I am affiliated to KIND (Karolinska Institutet center for Neurodevelopmental Disorders) where I study mostly the neuroanatomy of Autism Spectrum Disorder, with a specific focus on biological sex differences, as well as the early neuroanatomical development of ASD. 
+Currently, I am working as a lecturer at DIS Study Abroad, a non profit institution receiving american undergraduate students to study for a semester in Stockholm. Within DIS https://disabroad.org/stockholm/ , I currently teach 3 classes: the Affective Neuroscience class, the associated Affective Neuroscience lab, and the Developing Brain. 
+For my research, I am affiliated to KIND (Karolinska Institutet center for Neurodevelopmental Disorders  https://ki.se/en/kind/center-of-neurodevelopmental-disorders-at-karolinska-institutet-kind ) where I study mostly the neuroanatomy of Autism Spectrum Disorder, with a specific focus on biological sex differences, as well as the early neuroanatomical development of ASD. 
 
 
 Specifically, within the RATSS (Roots of Autism and ADHDH Twin Study Sweden) project, I have been working on 8 to 25-year-old twins who are either discordant or concordant for autism, or typically developing twins. I have been participating in the MRI scanning of the participating twins, analyzing obtained anatomical brain images and publishing 3 papers on sex differences on the neurophenotype of ASD.
